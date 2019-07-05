@@ -1,0 +1,142 @@
+          Student
+
+As a Student,I want to show The Class 
+
+Confarmatrion: 1)Class is  1 to 10.
+               2)Class Name should be Digit .
+              
+As a Student ,I want to show the Section 
+
+Confarmation:1)Section Name should be Alphabet. 
+             2)Also Mention The ClassName because 
+              every class has Same Section like A,B,C,D.
+             3)Section Assign With Total Grade Base .
+
+As a Student,I want to show the student Name.
+ Confarmation:1)Same Name May be same class.By  chance Same Father Name or Mother NAME.
+                Then Admin handle those student NAME LIKE Omar1 and Omar2.
+
+              2)Name must be Varchar.
+              3)Not Null.
+
+AS a student,I want to show the Course 	Name 
+Confarmation:1)Every Student must take all courses .
+
+As a student,I want to show the Drop course
+Confarmation:1)One student can not drop the  courses.If he/she drop the course then 
+               Those student drop the semester.
+
+As a Student,i want to show The ExamRegistration
+
+Confarmation:1)One Student must Paid the payment of semester.
+             2)Print THE PAY SLIP.
+             3)VERIFIED tHE ADMIN.
+             4)other conserning cases can be happen but also permission by the admin. 
+              
+ 
+
+As a student,I want to show the Exam Name.
+confarmation:1)Specific date One student exam name only one .    
+
+
+As a Student ,I want to show the Examination Date 
+Confarmation:1)One student Can give an exam only one On those specific date.
+
+AS a Student ,I want To show the Exam Room Number.
+confarmation:1)Same room different classes Student can give exam .
+
+As a student,I want to show The Exam seat Number.
+Confarmation:1)Seat Number should be Digit.
+             2)One Seat Number can  assign a One student.
+As a student,I want to show the Grade
+Confarmation:1)System Not allowed Grade F.
+              2)A=90,B=80,C=70,D=60
+
+As a Student,I want to show the Payment 
+Confarmation:1)	Payment are full .
+              
+             
+
+                                                           Teacher
+
+As a Teacher,I want to show the student Information
+
+As a Teacher,I want to show the add grade 
+Confarmation:1)Grade should Be A to D.
+             2)F grade not recognize the system.
+             3)If one time submitt the grade ,teacher can not access it.
+
+As a Teacher,I want To show the the Class Name
+
+
+
+As a Teacher,I want to show the Teacher Information
+
+  Confarmation:1)Teacher Information includes Images ,Phone nO.,Email No.
+               2)Student Can View The Teacher Informarion
+               3)Pnone Number Can Have Double Number.
+               4)Email address can have also Double.
+ 
+As a Teacher,I want to show the Class Handling 
+
+Confarmation:1)Specific Time Only one Specific class.
+
+
+AS a Teacher.I want to show the ExamRegistration
+
+
+                                           Parent
+
+AS a parents ,I want to show the student Profile 
+
+Confarmation:1)If one student misses the class consecutively admin inform that  by Email and Phone .
+             2)Parents Can show the students Money Payment 
+
+As a Parent ,I want to show payment 
+  Confarmation:1)parents check the payment are paid or Not.
+
+
+
+As a admin,I want to show the student profile
+
+Confarmation:1)verified the student guardian phone number Valid or Not
+             2)Check tHE attendence
+             3)By chance wrong grade assign by teacher then admin can solve it .
+As a admin ,I want to show the Teacher PROFILE 
+
+AS a admin ,I want to show the parents profile .
+
+Confarmation:1)Verified the parents phone and email.
+             2)By chance parents can change the phone number Its also solve it.  
+
+ As a Admin,I want to show the payment 
+
+    Confarmation:1)check the payment if payment is clear then granted to Exam either
+             Account block . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+            
+
+
+ 
+ 
